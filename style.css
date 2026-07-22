@@ -1,0 +1,194 @@
+.input-wrapper{
+    max-width:577px;
+    width:100%;
+    background:#F0F0F0;
+}
+
+.input-search{
+    color: #00000066;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 100%;
+    outline: none;
+}
+
+.input-search::placeholder{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 100%;
+}
+
+.search-icon{
+    color: #00000066;
+    font-size: 18px;
+}
+.header-icons{
+    gap: 14px;
+}
+
+.header-icons a{
+    color:#000;
+    font-size:22px;
+}
+
+.logo{
+    font-weight: 700;
+    font-size: 32px !important;
+    line-height: 100%;
+}
+
+
+.hero{
+    background-image: url("images/hero.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 770px;
+}
+
+.hero .container{
+    padding: 103px 0 116px;
+    gap: 48px;
+}
+
+.hero-content{
+    max-width: 577px;
+    width: 100%;
+    gap: 16px;
+}
+.hero-content h2{
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 64px;
+}
+
+.hero-content p{
+    width: 96%;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.hero-btn{
+    width: fit-content;
+    padding: 15px 67px;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    color: #FFFFFF;
+}
+
+.hero-rectangle{
+    max-width: 596px;
+    width: 100%;
+}
+
+.hero-info{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 100%;    
+}
+
+.hero-info-title{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #00000099;
+}
+
+
+.vertical-hr {
+    width: 2px;
+    height: 74px;
+    background-color: #0000001A;
+    border: none;
+    display: inline-block;
+}
+
+.brands{
+    background-color:#000;
+    padding:42px 0;
+}
+
+#new-arrivals{
+    margin-top: 72px;
+}
+
+.arrivals-title{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 100%;
+    margin-bottom: 55px;
+}
+
+.arrival-card{
+    gap: 16px;
+}
+
+.arrival-card img{
+    border-radius: 20px;
+}
+
+.arrival-card-info{
+    gap: 8px;
+}
+
+.arrival-card-info p{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 100%;
+}
+
+.arrival-card-rate{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+}
+
+.arrival-card-rate span{
+    color: #00000099;
+}
+
+.rating-product{
+    display: flex;
+    gap: 13px;
+    align-items: center;
+}
+
+
+.arrival-card-price{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100%;
+}
+
+.after-sale{
+    text-decoration: line-through;
+    color: #00000066;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.discount{
+    background-color: #FF33331A;
+    padding: 6px 13px;
+    color: #FF3333;
+    border-radius: 62px;
+}
+
+.arrival-btn{
+    border: 1px solid #0000001A;
+    background-color: transparent;
+    padding: 15px 80px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    margin-bottom: 64px;
+}
+
+#top-selling{
+    padding: 64px 0 80px 0;
+}
